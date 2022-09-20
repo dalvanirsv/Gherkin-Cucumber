@@ -11,5 +11,5 @@ Scenario: deve executar especificação
 	
 Scenario: deve incrementar contador
 Given que o valor do contador e 15
-When eu incrementar em 5
+When eu incrementar em 3
 Then o valor do contador sera 18
